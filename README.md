@@ -2,7 +2,7 @@
 
 ### Hi, I'm Sen
 
-I'm an AI algorithm engineer at [Unitree](https://www.unitree.com/), where what I care about most is getting advanced robot policies to run reliably on real hardware. During my PhD at CityU I worked on AI security, especially the security of diffusion models: watermarking, protective perturbations and the attacks that break them. Before that I studied computer science at SUSTech.
+I'm an AI algorithm engineer at [Unitree](https://www.unitree.com/), deploying advanced robot policies on real hardware. Before that, I studied at SUSTech and did my PhD at CityU, working on AI security with a focus on diffusion models.
 
 <sub>The G1 above falls once per lap. Still training.</sub>
 
