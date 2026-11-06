@@ -1,8 +1,8 @@
 <img src="./assets/g1-walk.svg" width="100%" alt="A G1-style humanoid walking across an RViz grid, faceplanting once and getting back up">
 
-### Hi, I'm Sen
+### Sen Peng
 
-I'm an AI algorithm engineer at [Unitree](https://www.unitree.com/), deploying advanced robot policies on real hardware. Before that, I studied at SUSTech and did my PhD at CityU, working on AI security with a focus on diffusion models.
+I am an AI algorithm engineer at [Unitree Robotics](https://www.unitree.com/), working on the deployment of advanced robot policies on real hardware. I received my B.E. in Computer Science and Technology from Southern University of Science and Technology (SUSTech) and my Ph.D. in Computer Science from City University of Hong Kong, where my research focused on AI security, particularly the security of diffusion models.
 
 <sub>The G1 above falls once per lap. Still training.</sub>
 
