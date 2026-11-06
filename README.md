@@ -1,21 +1,73 @@
-## Hi there 👋
+## Hi, I'm Sen Peng
 
-<!--
-**senp98/senp98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI algorithm engineer at **[Unitree Robotics](https://www.unitree.com/)** in Hangzhou, building reliable and generalizable systems for heterogeneous robotic embodiments.
 
-Here are some ideas to get you started:
+Ph.D. in Computer Science from **City University of Hong Kong**, supervised by [Prof. Xiaohua Jia](https://www.cs.cityu.edu.hk/~jia/), with a thesis on attacks and defenses of intellectual property protection in diffusion models. B.E. from **SUSTech**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Homepage](https://img.shields.io/badge/Homepage-senp98.github.io-2E7D32?style=flat-square)](https://senp98.github.io/)
+[![Google Scholar](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsenp98%2Fsenp98.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&style=flat-square&logo=googlescholar&logoColor=white&labelColor=4285F4&color=5B6770&label=Citations)](https://scholar.google.com/citations?user=7jRjatEAAAAJ)
+[![Email](https://img.shields.io/badge/Email-senpengeden%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:senpengeden@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sen_Peng-0A66C2?style=flat-square)](https://www.linkedin.com/in/sen-peng-4388a3216)
 
+### Now
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senp98&show_icons=true&theme=radical)
+- **Cross-embodiment robot systems**: making teleoperation, perception and control pipelines work reliably across different robot bodies.
+- **Robot data & learning**: XR teleoperation, multi-camera streaming and episode recording / replay as the data backbone for vision-language-action (VLA) models.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senp98&layout=compact&theme=radical)
+### Research Interests
+
+| Embodied AI *(now)* | Trustworthy Generative AI *(Ph.D.)* |
+| :--- | :--- |
+| Vision-language-action models | Protective perturbations against unauthorized data usage |
+| Cross-embodiment robot learning | Adversarial robustness of latent diffusion models |
+| Teleoperation & scalable data collection | Watermarking & IP protection of diffusion models |
+
+### Publications
+
+**CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models**<br>
+**Sen Peng**, Mingyue Wang, Jianfei He, Jijia Yang, Xiaohua Jia<br>
+*International Conference on Machine Learning (**ICML**), 2025*<br>
+[![ICML](https://img.shields.io/badge/ICML-2025-1F4E8C?style=flat-square)](https://icml.cc/virtual/2025/poster/46408)
+[![arXiv](https://img.shields.io/badge/arXiv-2502.07225-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2502.07225)
+[![OpenReview](https://img.shields.io/badge/OpenReview-paper-8C1B13?style=flat-square)](https://openreview.net/forum?id=5of0l7eUau)
+[![Code](https://img.shields.io/github/stars/senp98/cat?style=flat-square&logo=github&label=Code)](https://github.com/senp98/cat)
+
+**Improve Fluency Of Neural Machine Translation Using Large Language Models**<br>
+Jianfei He, Wenbo Pan, Jijia Yang, **Sen Peng**, Xiaohua Jia<br>
+*Machine Translation Summit (**MT Summit**), 2025*<br>
+[![ACL Anthology](https://img.shields.io/badge/ACL_Anthology-2025.mtsummit--1.5-ED1C24?style=flat-square)](https://aclanthology.org/2025.mtsummit-1.5/)
+
+**Protective Perturbations against Unauthorized Data Usage in Diffusion-based Image Generation**<br>
+**Sen Peng**, Jijia Yang, Mingyue Wang, Jianfei He, Xiaohua Jia<br>
+*International Conference on Advanced Cloud and Big Data (**CBD**), 2024*<br>
+[![Survey](https://img.shields.io/badge/Survey-CBD_2024-5B6770?style=flat-square)](https://arxiv.org/abs/2412.18791)
+[![arXiv](https://img.shields.io/badge/arXiv-2412.18791-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2412.18791)
+
+**Intellectual Property Protection of Diffusion Models via the Watermark Diffusion Process**<br>
+**Sen Peng**, Yufei Chen, Cong Wang, Xiaohua Jia<br>
+*International Conference on Web Information Systems Engineering (**WISE**), 2024*<br>
+[![WISE](https://img.shields.io/badge/WISE-2024-1F4E8C?style=flat-square)](https://arxiv.org/abs/2306.03436)
+[![arXiv](https://img.shields.io/badge/arXiv-2306.03436-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2306.03436)
+[![Code](https://img.shields.io/github/stars/senp98/wdm?style=flat-square&logo=github&label=Code)](https://github.com/senp98/wdm)
+
+**Embedding Watermarks in Diffusion Process for Model Intellectual Property Protection**<br>
+Jijia Yang, **Sen Peng**, Xiaohua Jia<br>
+*arXiv preprint, 2024*<br>
+[![arXiv](https://img.shields.io/badge/arXiv-2410.22445-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2410.22445)
+
+### News
+
+- **2025.11**: Joined Unitree Robotics as an AI algorithm engineer.
+- **2025.08**: Defended my Ph.D. thesis, *Attacks and Defense of Intellectual Property Protection in Diffusion Models*.
+- **2025.05**: CAT accepted to ICML 2025.
+- **2025.04**: NMT fluency paper accepted to MT Summit 2025.
+- **2024.11**: Survey on protective perturbations accepted to CBD 2024.
+- **2024.09**: WDM accepted to WISE 2024.
+
+### GitHub
+
+<!-- Card is generated by .github/workflows/readme-cards.yml into profile/. Run the workflow once after pushing. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/senp98/senp98/HEAD/profile/stats-dark.svg">
+  <img alt="GitHub stats" src="https://raw.githubusercontent.com/senp98/senp98/HEAD/profile/stats.svg" height="165">
+</picture>
