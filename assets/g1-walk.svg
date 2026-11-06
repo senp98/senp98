@@ -3,6 +3,9 @@
   <title id="t">A humanoid robot walking across an RViz grid</title>
   <desc id="d">A G1-style humanoid walks across a grey 3D grid, falls flat on its face halfway, springs back up and keeps walking.</desc>
   <style>
+  @font-face { font-family: "PlexMono"; src: url(data:font/woff2;base64,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) format("woff2"); }
+  .lbl { font-family: "PlexMono", Menlo, Consolas, monospace; fill: #E3E4E6; }
+  .tag { font-size: 13px; }
   .walk { transform: translateX(560px); }
   .thigh, .shin, .arm, .bob, .lean { transform-origin: 0 0; }
   .lean { transform: rotate(4deg); }
@@ -121,8 +124,7 @@
       <line x2="-13.5" y2="7.4" stroke="#46A758"/>
       <line x2="30" y2="0" stroke="#E5484D"/>
       <line x2="0" y2="-30" stroke="#4C7BF3"/>
-      <text x="6" y="-36" fill="#E3E4E6" stroke="none" font-size="13"
-            font-family="Helvetica, Arial, sans-serif">world</text>
+      <text class="lbl" x="6" y="-36" stroke="none" font-size="13">world</text>
     </g>
     <g transform="translate(0 106.0)">
       <g class="walk">
@@ -165,13 +167,7 @@
         <rect x="1" y="-75" width="11" height="13" rx="5" fill="#232529"/>
         <circle cx="8" cy="-69" r="1.6" fill="#4C7BF3"/>
       </g>
-      <g transform="translate(0 -4)" stroke-width="2.6" stroke-linecap="round">
-      <line x2="-7.7" y2="4.2" stroke="#46A758"/>
-      <line x2="17" y2="0" stroke="#E5484D"/>
-      <line x2="0" y2="-17" stroke="#4C7BF3"/>
-      <text x="-34" y="-10" fill="#E3E4E6" stroke="none" font-size="13"
-            font-family="Helvetica, Arial, sans-serif">sen</text>
-    </g>
+      <text class="lbl tag" x="0" y="-90" text-anchor="middle">sen</text>
     </g>
     <g class="thigh a">
         <rect x="-6.5" y="-2" width="13" height="33" rx="6.5" fill="#E9EBEE"/>
