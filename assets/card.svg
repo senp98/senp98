@@ -138,6 +138,6 @@
     <text class="row r6" x="330" y="230"><tspan class="key b">Kernel</tspan><tspan class="val">: Ph.D. in Computer Science, CityU</tspan></text>
     <text class="row r7" x="330" y="253"><tspan class="key b">BIOS</tspan><tspan class="val">: B.E. in Computer Science and Technology, SUSTech</tspan></text>
     <text class="row r8" x="330" y="276"><tspan class="key b">Status</tspan><tspan class="val">: Still training</tspan></text>
-    <g class="row r9"><rect x="330" y="294" width="30" height="16" fill="#2E2F33"/><rect x="360" y="294" width="30" height="16" fill="#E5484D"/><rect x="390" y="294" width="30" height="16" fill="#46A758"/><rect x="420" y="294" width="30" height="16" fill="#E2B93B"/><rect x="450" y="294" width="30" height="16" fill="#4C7BF3"/><rect x="480" y="294" width="30" height="16" fill="#B07CD8"/><rect x="510" y="294" width="30" height="16" fill="#3FB5C4"/><rect x="540" y="294" width="30" height="16" fill="#E9EBEE"/></g>
+    <g class="row r9"><rect x="330" y="294" width="30" height="16" fill="#1B1C1F"/><rect x="360" y="294" width="30" height="16" fill="#E5484D"/><rect x="390" y="294" width="30" height="16" fill="#46A758"/><rect x="420" y="294" width="30" height="16" fill="#E2B93B"/><rect x="450" y="294" width="30" height="16" fill="#4C7BF3"/><rect x="480" y="294" width="30" height="16" fill="#B07CD8"/><rect x="510" y="294" width="30" height="16" fill="#3FB5C4"/><rect x="540" y="294" width="30" height="16" fill="#E9EBEE"/></g>
   </g>
 </svg>
