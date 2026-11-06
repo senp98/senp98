@@ -2,7 +2,7 @@
 
 ### Hi, I'm Sen
 
-I write algorithms for robots at [Unitree](https://www.unitree.com/), mostly getting one stack to behave on many different robot bodies. Before that I did a PhD at CityU, poking holes in (and patching) copyright protection for diffusion models.
+I'm an AI algorithm engineer at [Unitree](https://www.unitree.com/), where what I care about most is getting advanced robot policies to run reliably on real hardware. During my PhD at CityU I worked on AI security, especially the security of diffusion models: watermarking, protective perturbations and the attacks that break them. Before that I studied computer science at SUSTech.
 
 <sub>The G1 above falls once per lap. Still training.</sub>
 
